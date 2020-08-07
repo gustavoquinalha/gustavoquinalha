@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![Text: Hi, I'm Gustavo Quinalha](hero.png)
+![Text: Hi, I'm Gustavo Quinalha](https://raw.githubusercontent.com/gustavoquinalha/gustavoquinalha/master/hero.png)
 
 [![Quinalha's github stats](https://github-readme-stats.vercel.app/api?username=gustavoquinalha)](https://github.com/gustavoquinalha/github-readme-stats)
 
