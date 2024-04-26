@@ -1,2 +1,3 @@
-![gus](grafite2-1.png)
+Com mais de 15 anos de experiência como Desenvolvedor Front-End, especializei-me em UI/UX, sempre com um foco inabalável na arte e na experiência do usuário. Minha paixão por criar interfaces elegantes e funcionais é evidente em cada projeto que lidero. Tenho um domínio avançado em JavaScript e CSS, com uma aptidão particular para animações sofisticadas que não apenas atraem visualmente, mas melhoram significativamente a interação do usuário. Busco constantemente inovar e aplicar as melhores práticas no desenvolvimento de front-end para entregar produtos que não só atendem, mas superam as expectativas dos usuários. Estou sempre em busca de novos desafios e oportunidades para empregar minha experiência e habilidades na criação de soluções web.
+
 ![](https://komarev.com/ghpvc/?username=gustavoquinalha)
